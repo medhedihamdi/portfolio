@@ -1,0 +1,77 @@
+header {
+  background-color: yellowgreen;
+  color: white;
+  height: 50px;
+  margin: -10px;
+  padding: 10px;
+}
+
+.container-one {
+  background-color: bisque;
+  display: flex;
+  justify-content: space-around;
+  margin: -10px;
+  padding: 20px;
+}
+
+#cv {
+  background-color: blueviolet;
+  margin: 40px;
+  padding: 20px;
+}
+
+#contact {
+  background-color: cornflowerblue;
+  margin: 40px;
+  padding: 20px;
+}
+
+.container-two {
+  background-color: bisque;
+  display: flex;
+  justify-content: space-around;
+  margin: -10px;
+  padding: 20px;
+}
+
+#education {
+  background-color: cornflowerblue;
+  margin: 40px;
+  padding: 20px;
+}
+#language {
+  background-color: cornflowerblue;
+  margin: 40px;
+  padding: 20px;
+}
+.container-three {
+  background-color: bisque;
+  display: flex;
+  justify-content: space-around;
+  margin: -10px;
+  padding: 20px;
+}
+#skills {
+  background-color: cornflowerblue;
+  margin: 40px;
+  padding: 20px;
+}
+
+#exp {
+  background-color: cornflowerblue;
+  margin: 40px;
+  padding: 20px;
+}
+footer {
+  background-color: darkcyan;
+  height: 300px;
+}
+#message {
+  width: 200px;
+  height: 150px;
+  padding: 20px;
+  margin-top: 20px;
+}
+#photo{
+    border-radius: 50%;
+}
